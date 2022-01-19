@@ -1,5 +1,4 @@
 def convert_time(duration: int) -> str:
-    # пишите реализацию своей программы здесь
     sec = duration
     min = sec / 60
     hour = sec / 3600
